@@ -41,14 +41,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxVasnkataxx&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
-
-<details>
-  <summary><b>🧑‍🚀 Repositories</b></summary>
-
-[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=xxVasnkataxx&repo=math-games-2020)](https://github.com)
-[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=xxVasnkataxx&repo=fire-department-2021)](https://github.com)
-</details>
-
 <details>
   <summary><b>📚 Badges</b></summary>
 
