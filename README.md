@@ -2,7 +2,7 @@
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxxVasnkataxx&count_bg=%23910FEC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
-<img align="right" height="200" width="200" alt="" src="https://static-cdn.jtvnw.net/jtv_user_pictures/0e42ddb7-d0ce-4c76-b985-f96d0b2197cf-profile_image-70x70.png" />
+<img align="right" height="200" width="300" alt="" src="https://www.codingburgas.bg/wp-content/uploads/2020/04/code-new-23-3-410x260-1.png" />
 
 ## Talking about Personal Stuffs:
 
