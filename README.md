@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<a href ="https://www.youtube.com/c/xxVasnkataxx" ><img align="left" width="22px" src="https://clipartart.com/images/logo-de-youtube-clipart-transparente-1.png" /><a/>
+<a href ="https://youtube.com/channel/UCgJS4jzGNRtRvh1gmVrhCTA"><img align="left" width="22px" src="https://clipartart.com/images/logo-de-youtube-clipart-transparente-1.png" /><a/>
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://th.bing.com/th/id/OIP.CNmIWAGeWJiBtuyT0WVn3wHaHa?pid=ImgDet&rs=1" />
   <a href ="https://discord.gg/JfEuB8Eyve"><img align="left" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" /><a/>
 
